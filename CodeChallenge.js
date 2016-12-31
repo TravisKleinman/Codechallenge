@@ -1,5 +1,5 @@
-/*********Challenges*********/
-// Hair Color
+﻿/*********Challenges*********/
+// Hair Colors
 // Create a variable called hairColor and set it equal to a string of your hair color.
 
 
